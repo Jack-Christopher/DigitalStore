@@ -1,0 +1,15 @@
+{
+    "name": "digital-store",
+    "version": "1.0.0",
+    "description": "A Digital Store for selling interesting products ",
+
+    "dependencies": 
+    {
+        "alertifyjs": "^1.13.1",
+        "vue": "^2.6.14"
+    },
+    "scripts": 
+    {
+        "postinstall": "npm_postinstall.bat"
+    }
+}

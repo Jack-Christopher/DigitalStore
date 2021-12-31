@@ -1,0 +1,20 @@
+{
+    "config": 
+    {
+        "vendor-dir": "packages/vendor"
+    },
+
+    "require": 
+    {
+        "twbs/bootstrap": "^5.1",
+        "components/jquery": "^3.6"
+    },
+    
+    "scripts": 
+    {
+        "post-update-cmd": 
+        [
+            "composer_post_update.bat"
+        ]
+    }
+}

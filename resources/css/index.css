@@ -1,0 +1,71 @@
+body
+{
+  margin: 0%;
+}
+
+#portada
+{
+  padding: 0%;
+  background-color: #f2f2f2;
+  content: url("../images/background.jpg");
+  width: 100%;
+  /* background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: local; */
+}
+
+.mensaje
+{
+  text-align: center;
+  font-size: 30px;
+  margin-left: 10%;
+  margin-right: 10%; 
+  color: rgb(28, 27, 119);
+}
+
+#video
+{
+  width: 60%;
+  /* center video */
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  
+}
+
+#inscripcion
+{
+  width: 60%;
+  font-size: 25px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+  color: rgb(28, 27, 119);  
+}
+
+#disponible
+{
+  width: 100%;
+  padding: 5%;
+  font-size: 40px;
+  background-color: rgb(84, 35, 0);
+  text-align: center;
+  color: white;
+}
+
+#comentarios
+{
+  margin: 5%;
+  padding: 3%;
+}
+
+#preguntas_frecuentes
+{
+  margin: 5%;
+  padding: 3%;
+  background-color: rgb(139, 147, 173);
+}
